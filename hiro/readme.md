@@ -1,1 +1,4 @@
-here is hiro space
+#here is hiro space
+##使い方
+起動します。1秒ごとに令和までの時間を時間、分、秒単位で表示してくれます。
+Windows環境でしか動きましぇん
